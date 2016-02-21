@@ -1,0 +1,19 @@
+C:\Users\mhall\Documents\Classes\CS\csc331\2014s\Prepared\VideoStore\VideoStore\bin\Debug\VideoStore.exe.config
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe.config
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.csprojResolveAssemblyReference.cache
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.Form1.resources
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.Properties.Resources.resources
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.csproj.GenerateResource.Cache
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.exe
+E:\Users\mcbrown\Documents\Visual Studio 2013\Projects\VideoStore\VideoStore\obj\Debug\VideoStore.pdb
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\bin\Debug\VideoStore.exe.config
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.exe
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.csprojResolveAssemblyReference.cache
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.Form1.resources
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.Properties.Resources.resources
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.csproj.GenerateResource.Cache
+D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.pdb
