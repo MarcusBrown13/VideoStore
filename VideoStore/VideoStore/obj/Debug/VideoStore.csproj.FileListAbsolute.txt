@@ -17,3 +17,6 @@ D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.Fo
 D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.Properties.Resources.resources
 D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.csproj.GenerateResource.Cache
 D:\CSC 331 Marcus Brown\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.pdb
+C:\Users\Marcus\Source\Repos\VideoStore\VideoStore\VideoStore\bin\Debug\VideoStore.exe.config
+C:\Users\Marcus\Source\Repos\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.exe
+C:\Users\Marcus\Source\Repos\VideoStore\VideoStore\VideoStore\obj\Debug\VideoStore.pdb
